@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.article{
+    background-color: aquamarine;
+    border: 3px solid red;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    height: 250px;
+    /* box-shadow */
+    box-shadow: 10px 10px 40px rgb(160, 68, 68);
+}
+
+header{
+    padding: 20px;
+    color: white;
+    height: 80vh;
+    background-image: url('/images/web-3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
